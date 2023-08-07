@@ -6,8 +6,7 @@
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-<COLOR>.svg)](https://shields.io/)
 [![GitHub license](https://img.shields.io/github/license/teyang-lau/Pneumonia_Detection.svg)](https://github.com/teyang-lau/Pneumonia_Detection/blob/master/LICENSE)
 
-Author: TeYang, Lau <br>
-Last Updated: 14 July 2020
+
 
 <img src = './Pictures/pneumonia.jpg'>
 
