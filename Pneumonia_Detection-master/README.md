@@ -10,7 +10,7 @@
 
 <img src = './Pictures/pneumonia.jpg'>
 
-### **Please refer to this [notebook](https://www.kaggle.com/teyang/pneumonia-detection-resnets-pytorch?scriptVersionId=38723009) on Kaggle for a more detailed description, analysis and insights of the project.** 
+
 
 
 
